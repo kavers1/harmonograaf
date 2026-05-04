@@ -98,9 +98,9 @@ Voor de driepikkel gebruiken we 3 bezemstelen die we elk met hun conische kant i
 Het prototype dat op de Maker Faire in Gent stond had origineel geen bodemplaat, maar we merkten al snel dat tafels meestal niet hoog genoeg zijn om de slingers te kunnen laten slingeren en moesten dus het geheel verhogen of de slingers inkorten. In deze versie werd er voor gekozen om een verhoging mogelijk te maken. Hiervoor hebben we de bodemplaat toegevoegd. Die kan je dan verhogen door onder de bodemplaat iets te steken boven op de tafel bvb 2 bier- of opruimbakken of een stapel boeken. De bodemplaat bestaat uit een MDF plaat van 700x600 mm. In deze MDF plaat boren we opnieuw met de 25mm vlinderboor een verzonken kommetje van een paar mm diep (niet volledig doorboren, in het midden het zal er wel door zijn maar dat geeft niet). Die kommetjes zijn bedoeld om de driepikkel stabiel op zijn plaats te houden en hebben geen ander functie. De kommetjes zijn niet echt noodzakelijk maar helpen wel om de driepikkel niet van de plaat te laten schuiven. De middelpunten van de kommetjes liggen weer op de hoekpunten van een gelijkzijdige driehoek met een zijde van 600 mm.
 
 ![stiftlifter](/assets/driepikkel.png)
-```
-In minstens 1 van de bezemstelen van de 3 pikkel boren we op ongeveer 30 cm van de onderkant een gaatje van 2.5mm door. Dit zal dienen om de stiftlifter te bedienen. Als je dit gewoon mooi haaks door het midden van de bezemsteel boort zal de wrijving er voor zorgen dat niets anders nodig om de pen om hoog te houden.
-```
+
+>In minstens 1 van de bezemstelen van de 3 pikkel boren we op ongeveer 30 cm van de onderkant een gaatje van 2.5mm door. Dit zal dienen om de stiftlifter te bedienen. Als je dit gewoon mooi haaks door het midden van de bezemsteel boort zal de wrijving er voor zorgen dat niets anders nodig om de pen om hoog te houden.
+
 ### Tekenplank
 
 De tekenplank is een vierkant van 320x320mm met in elke hoek op 10mm van de zijde een gaatje van 2.5mm. Aan de onderkant van de plaat worden 4 kleine 33cl met zand gevulde petflesjes bevestigd door de dopjes van de petflesjes vast te schroeven aan de tekenplaat. De dopjes worden op de diagonalen van de tekenplaat bevestigd. Liefst zo symmetrisch mogelijk. (figuur 11) Als je de petflesjes dicht bij het midden hangt zal de plaat meer mogelijkheid hebben om te draaien maar de draaibeweging zal snel uitdoven. Als je de petflesjes meer naar de buitenzijde van de tekenplaat bevestigd zal het meer moeite kosten om de plaat te laten draaien maar zal dat langer blijven duren. Deze draaibeweging is niet echt de bedoeling maar kan een extra vrijheidsgraad geven in de tekeningen. Eventueel kan je meerder dopjes voor petflessen langs de diagonaal vastschroeven om hiermee te experimenteren.
@@ -193,9 +193,9 @@ In minstens 1 van de bezemstelen van de 3 pikkel boren we op ongeveer 30 cm van 
 - Het best is om nu te kijken of in rust de tekenarmen ongeveer horizontaal zijn. Indien niet moet je de ophangtouwtjes in lengte aanpassen. Dit kan je doen door de ophanging via de
 
 
-```
-zaagsneden los te maken en het knoopje met 2x de te corrigeren lengte op te schuiven (tekenplaat hoger = touw korter, lager = langer)
-```
+
+>zaagsneden los te maken en het knoopje met 2x de te corrigeren lengte op te schuiven (tekenplaat hoger = touw korter, lager = langer)
+
 - Steek nu het tekentouw door de centrale oogvijs van de ophangplaat of door het centrale gat. Daarna kan je het touw door het gaatje van een van de bezemstelen van de driepikkel steken. Als je het touwtje door het gaatje trekt zou de stift van de tekenplank moeten gaan en blijven hangen als je het los laat. Trek ja aan de andere kant van de bezemsteel dan kan je de stift laten zakken tot op de tekenplaat.
 - Als je hier bent geraakt is het nu tijd om te spelen en testen.
 o De stiften die wij gebruikten waren Stabilo stiften van 0.4mm. Andere kunnen ook maar deze hebben het toch net een weekend uitgehouden op de Maker Faire Gent 2022
@@ -206,6 +206,11 @@ o Geeft de slingers een zachte duw alsook de tekenplaat.
 o Laat de stift terug zakken als die binnen het blad blijft
 o Wacht en bewonder.
 o Indien je steeds een chaotische tekening krijgt heb je geen harmonische beweging tussen de twee slingers. Verander dan de hoogte van 1 slinger totdat de tekeningen vergelijkbaar zijn met de voorbeelden.
+
+![example1](/assets/IMG_2472.jpg)
+![example2](/assets/IMG_2907.JPG)
+![example3](/assets/IMG_2908.JPG)
+
 
 ## Bronnen :
 
