@@ -190,11 +190,7 @@ In minstens 1 van de bezemstelen van de 3 pikkel boren we op ongeveer 30 cm van 
 - Monteer de 2e tekenlat op gelijkaardige manier als de eerste. (met touwtje van 10cm en tandenstoker)
 - Span het stiftliftertouwtje aan de wasknijper aan en borg met een halve tandenstoker in de bovenste tekenlat. Het kan zijn dat je het puntje van de tandenstoker moet afbreken om genoeg beweging te krijgen. 
 - Nu is alles ongeveer klaar voor een eerste test. Enkel het tegengewicht voor de pen moet nog bepaald worden. Dit doe je door een stift met dopje tussen de wasknijper te steken. Je vult het flesje met zand totdat de stift nog net op het tekenplankje blijft maar niet meer te hard drukt. Later kan je dit nog steeds bijstellen. Hoe harder de stift drukt, hoe meer wrijving en dus hoe sneller de slinger zal stilvallen. Te weinig druk geeft echter dan weer problemen dat de stift niet goed schrijft bij hogere snelheden (wijdere bewegingen). Hier ga je dus wat moet zoeken naar het juiste tegengewicht door de hoeveelheid zand in het flesje aan te passen.
-- Het best is om nu te kijken of in rust de tekenarmen ongeveer horizontaal zijn. Indien niet moet je de ophangtouwtjes in lengte aanpassen. Dit kan je doen door de ophanging via de
-
-
-
->zaagsneden los te maken en het knoopje met 2x de te corrigeren lengte op te schuiven (tekenplaat hoger = touw korter, lager = langer)
+- Het best is om nu te kijken of in rust de tekenarmen ongeveer horizontaal zijn. Indien niet moet je de ophangtouwtjes in lengte aanpassen. Dit kan je doen door de ophanging via de zaagsneden los te maken en het knoopje met 2x de te corrigeren lengte op te schuiven (tekenplaat hoger = touw korter, lager = langer)
 
 - Steek nu het tekentouw door de centrale oogvijs van de ophangplaat of door het centrale gat. Daarna kan je het touw door het gaatje van een van de bezemstelen van de driepikkel steken. Als je het touwtje door het gaatje trekt zou de stift van de tekenplank moeten gaan en blijven hangen als je het los laat. Trek ja aan de andere kant van de bezemsteel dan kan je de stift laten zakken tot op de tekenplaat.
 - Als je hier bent geraakt is het nu tijd om te spelen en testen.
