@@ -1,7 +1,7 @@
 # Hoe een low-tech harmonograaf bouwen.
 
 
-![harmonograaf](/assets/image.png)
+![harmonograaf](/assets/pictures/image.png)
 
 25/05/2022 Versie 2 KoV/BvK
 
@@ -61,7 +61,7 @@ Als we een touwtje door een klein gaatje willen steken is het handig dat het tou
 
 ### De Scharnieren :
 
-![scharnieren](/assets/scharnier.png)
+![scharnieren](/assets/drawings/scharnier.png)
 
 
 >Voor de scharnieren werden er 5 latjes van 30cm lang gezaagd van een overschotje hout. De breedte van de latjes moet 1 mm breder zijn dan de dikte van de bezemsteel. In ons prototype was de bezemsteel 23 mm diameter en dus de latjes 24 mm breed. 1 van de latjes werd dan in lengte gehalveerd naar 15 cm. Dit latje van 15 cm werd dan gesandwicht tussen 2 latjes van 30 cm, zodat er een vork ontstaat met tussen de 2 uitstekende tanden een opening die net iets breder is dan de borstelsteel. Alles werd verlijmd. (kopse kanten van de latjes mooi gelijk leggen) Dit doe je nog een 2e maal met de andere latjes.
@@ -69,35 +69,35 @@ Als we een touwtje door een klein gaatje willen steken is het handig dat het tou
 Deze vorken zijn de basis van de slingerscharnieren. Om er scharnieren van te maken moeten we nu nog de gaatjes boren voor het scharniertouw. Op 2 cm van het uiteinde van de vork en 5mm en op 10 mm van de opening tussen de tanden boren we in elke tand een 2.5mm gaatje door de tand. Het resultaat zou er zoals op de figuur hiernaast moeten uitzien.
 
 ### De slinger :
-![Slinger](/assets/slinger.png)
+![Slinger](/assetsdrawings/slinger.png)
 
 >Voor de slinger moeten we een scharniergaatje in de bezemsteel aanbrengen. Dit doen we door mooi in het midden van de bezemsteel, op een 25 à 30 cm van de ronde bovenzijde van de steel een 2.5mm gaatje dwars door te boren. Op een 5 cm onder dat gaatje boren we nog een 2e gaatje dat er haaks (90°) op staat. In de ronde kop van de bezemsteel boren we al het 2.5mm scharniergaatje voor de tekenarm. Dit doen we door onder ongeveer 45° tov de lengte zodat dit aan de zijkant van de bezemsteel uitkomt.
 
-![slingerkop](/assets/slingertop.png)
+![slingerkop](/assets/drawings/slingertop.png)
 
 >De ronde kop van de bezemsteel moeten we nu afvlakken door met een rasp of schuurmachine er platte kanten aan te zetten. Het resultaat moet zo zijn dat we bovenaan een
 noklijn krijgen die evenwijdig is met het slingerscharniergaatje. Als dit niet goed gebeurt kan het zijn dat je pen later tijdens het tekenen telkens een wipje neemt bij het bereiken van een uiterste slingerstand, leuk om te zien gebeuren niet om goede tekeningen te krijgen.
 
 ### Slinger gewichten
-![slingergewichten](/assets/slinger%20gewicht.png)
+![slingergewichten](/assets/drawings/slinger%20gewicht.png)
 Om de gewichten aan de slinger te kunnen hangen gebruiken we een houten latje van 4cm x 20cm. In het midden van het latje boren we een gat van 25 mm zodat dit latje makkelijk over de bezemsteel kan schuiven. Van de zijkant van het latje boren we in het midden en gaatje van 2.5mm naar het grote gat toe. Hierin zullen we de lengte touw vast maken. De dopjes van 2 50cl flessen kunnen nu aan de onderkant van dit latje symmetrisch ten opzichte van het gat bevestigd worden met 1 of meerdere schroefjes. Als je 1 centraal schroefje gebruikt kan je het dopje nog makkelijk op de fles draaien maar valt de fles er ook makkelijker af.
 
 De 50cl petflesjes vullen we tot bovenaan volledig met wit zand. Droog wit zand gaat het beste om een flesje te vullen. Als je geen wit zand hebt kan je ook water gebruiken, maar water is maar bijna half zo zwaar als het zand. De flesjes mogen aan het latje geschroefd worden. Dit doen we 2 maal, voor elke slinger 1 gewichtslatje met 2 flesjes.
 
 
 ### De ophanging
-![ophanging](/assets/driepikkel2.png)
+![ophanging](/assets/drawings/driepikkel2.png)
 
 >Voor de ophanging hebben we het langst moeten zoeken naar een werkende low tech oplossing. De vele voorbeelden die ik op het internet vond gebruiken een dubbel werkende scharnier, maar die is niet zo makkelijk te maken. Wij hebben daarom gekozen voor een ophanging aan een driepikkel, omdat we op die manier de 2 bewegingsvrijheidsgraden kunnen verkrijgen en het toch nog redelijk eenvoudig konden houden. Misschien kan dit nog simpeler en dan hoor ik dat graag.
 
 Voor de driepikkel gebruiken we 3 bezemstelen die we elk met hun conische kant in een gat van 22 mm diameter steken zodat deze klemvast zitten. De middelpunten van deze gaten zitten op een gelijkzijdige driehoek met een zijde van 86 mm in een MDF plankje van 125x140 mm. (figuur 7)
 
-![bovenplaat](/assets/topplaat.png)De ophangplaat is een tweede MDF plaatje van 210x240mm, en heeft ook 3 gaten met een diameter van 25 mm. De middelpunten van deze gaten bevinden zich ook op de hoekpunten van een gelijkzijdige driehoek met een zijde van 172 mm. Heel exact moeten deze gaten niet geplaatst worden. Op deze ophang plaat komen nog 4 extra gaatjes van 2.5mm zo geplaatst dat ze in een rechthoek staan en de gaatje net voor de gaten van de borstelstelen uitkomen (40 mm van de rand). Van aan de zijkant van de MDF plaat zagen we onder een hoek van 45° met een handzaag een zaagsnede tot aan het gaatje. Die zaagsneden zijn er om de montage van de ophanging van de tekenplaat te vergemakkelijken. Je kan ze ook weglaten en enkel de gaatjes houden. Ik ga er in de beschrijving van uit dat ze er zijn. Indien niet zal het verschil in montage wel duidelijk zijn als het zover komt. In het midden van dit plaatje kan er een gaatje van 3mm geboord worden of kan er een oogvijs gemonteerd worden om het stiftlifter touwtje te geleiden.
+![bovenplaat](/assets/drawings/topplaat.png)De ophangplaat is een tweede MDF plaatje van 210x240mm, en heeft ook 3 gaten met een diameter van 25 mm. De middelpunten van deze gaten bevinden zich ook op de hoekpunten van een gelijkzijdige driehoek met een zijde van 172 mm. Heel exact moeten deze gaten niet geplaatst worden. Op deze ophang plaat komen nog 4 extra gaatjes van 2.5mm zo geplaatst dat ze in een rechthoek staan en de gaatje net voor de gaten van de borstelstelen uitkomen (40 mm van de rand). Van aan de zijkant van de MDF plaat zagen we onder een hoek van 45° met een handzaag een zaagsnede tot aan het gaatje. Die zaagsneden zijn er om de montage van de ophanging van de tekenplaat te vergemakkelijken. Je kan ze ook weglaten en enkel de gaatjes houden. Ik ga er in de beschrijving van uit dat ze er zijn. Indien niet zal het verschil in montage wel duidelijk zijn als het zover komt. In het midden van dit plaatje kan er een gaatje van 3mm geboord worden of kan er een oogvijs gemonteerd worden om het stiftlifter touwtje te geleiden.
 
-![bodemplaat](/assets/bodemplaat.png)
+![bodemplaat](/assets/drawings/bodemplaat.png)
 Het prototype dat op de Maker Faire in Gent stond had origineel geen bodemplaat, maar we merkten al snel dat tafels meestal niet hoog genoeg zijn om de slingers te kunnen laten slingeren en moesten dus het geheel verhogen of de slingers inkorten. In deze versie werd er voor gekozen om een verhoging mogelijk te maken. Hiervoor hebben we de bodemplaat toegevoegd. Die kan je dan verhogen door onder de bodemplaat iets te steken boven op de tafel bvb 2 bier- of opruimbakken of een stapel boeken. De bodemplaat bestaat uit een MDF plaat van 700x600 mm. In deze MDF plaat boren we opnieuw met de 25mm vlinderboor een verzonken kommetje van een paar mm diep (niet volledig doorboren, in het midden het zal er wel door zijn maar dat geeft niet). Die kommetjes zijn bedoeld om de driepikkel stabiel op zijn plaats te houden en hebben geen ander functie. De kommetjes zijn niet echt noodzakelijk maar helpen wel om de driepikkel niet van de plaat te laten schuiven. De middelpunten van de kommetjes liggen weer op de hoekpunten van een gelijkzijdige driehoek met een zijde van 600 mm.
 
-![stiftlifter](/assets/driepikkel.png)
+![stiftlifter](/assets/drawings/driepikkel.png)
 
 >In minstens 1 van de bezemstelen van de 3 pikkel boren we op ongeveer 30 cm van de onderkant een gaatje van 2.5mm door. Dit zal dienen om de stiftlifter te bedienen. Als je dit gewoon mooi haaks door het midden van de bezemsteel boort zal de wrijving er voor zorgen dat niets anders nodig om de pen om hoog te houden.
 
@@ -108,7 +108,7 @@ De tekenplank is een vierkant van 320x320mm met in elke hoek op 10mm van de zijd
 
 ### Tekenarmen
 
-![tekenarm](/assets/tekenlat_center.png)
+![tekenarm](/assets/drawings/tekenlat_center.png)
 
 De tekenarmen bestaan een 2 dunne lichte houten latjes van ongeveer 65cm lang bij 10x10mm, een wasknijper en een petflesje met een klein beetje zand in. De hoeveelheid zand wordt later nog bepaald. Op 1 cm van het uiteinde van de tekenarmen wordt er een gaatje van 2.5mm geboord. Dit zal het scharnierpunt van de 2 bewegingen worden. Op 1cm verder weg van het uiteinde kleven we de wasknijper aan het houten latje, met houtlijm of hotglue of wat dan ook. Let op de oriëntatie van het gaatje ten op zichten van de wasknijper. Tussen de wasknijper komt de stift te zitten. Deze moet parallel zijn met het scharniergaatje. Later moeten de scharniergaatjes van de tekenarmen aan de slingers nog bepaald worden. Maar dit kunnen we pas doen na de montage van alle andere stukken.
 
@@ -128,7 +128,7 @@ Bij de montage zullen we dikwijls de zelfde montage 2 maal moeten herhalen, voor
 ### De Slingers :
 
 Snij 2 touwtjes met de lengte van een bezemsteel. Zorg er voor dat de uiteinden van de touwtje mooi afgewerkt zijn. Leg een knoop in 1 eind van het touwtje en steek het ander einde door het 2.5mm gaatje van het gewichtslatje, van de buitenzijde naar binnen in het grotere 25mm gat. Draai de met zand gevulde 50cl flesjes op de dopjes onderaan het plankje.
-![slinger](/assets/slinger.png)
+![slinger](/assets/drawings/slinger.png)
 
 
 Zet de flesjes op de grond. (plankje bovenaan)
@@ -146,7 +146,7 @@ Bij het gewichtentouwtje is dit echter wel de bedoeling, want hiermee kan je de 
 
 
 ### De Scharnieren :
-![Scharnieren](/assets/scharnier_montage.png)
+![Scharnieren](/assets/drawings/scharnier_montage.png)
 
 Snij een touwtje van ongeveer 20cm en werk de uiteinden af.
 
@@ -159,7 +159,7 @@ Leg een knoopje in 1 van de uiteindjes. Steek het andere uiteinde van het touwtj
 - Voor de driepikkel van de ophanging gebruiken we 3 bezemstelen. Schuif de ophangplaat met de 25mm gaten over de bezemstelen zodat de conische kant van de bezemstelen naar boven wijzen.
 - Schuif dan de bovenplaat, die met de kleinere 22 mm gaten, over de conische stukken van de bezemsteel, totdat deze vast zitten in de plaat.
 - Schuif nu de onderste plaat, de ophangplaat, zover mogelijk naar de eerste plaat toe totdat deze begint te klemmen. De afstand tussen de bovenplaat en de ophangplaat moet dan ongeveer 10 cm zijn. De ophangplaat moet wel echt klemmen. Dus misschien moet je deze borstelsteel per borstelsteel nog wat hoger proberen te krijgen. Zie wel dat je ze niet breekt.
-![Ophanginge](/assets/driepikkel2.png)
+![Ophanginge](/assets/drawings/driepikkel2.png)
 
 In minstens 1 van de bezemstelen van de 3 pikkel boren we op ongeveer 30 cm van de onderkant een gaatje van 2.5mm door. Dit zal dienen om de penhouder te bedienen. Je kan ook zo’n gaatje boren in alle drie van de bezemstelen. Dan is er later bij hermontage geen voorkeur meer voor de stiftlifter.
 
@@ -174,16 +174,16 @@ In minstens 1 van de bezemstelen van de 3 pikkel boren we op ongeveer 30 cm van 
 - Haal de ophoging onder de flesje van de tekenplank weg. De tekenplank moet nu ophangen en vrij kunnen bewegen. Indien niet moet je de ophangtouwtjes nog wat korter maken. Kijk ook na dat de tekenplank ongeveer horizontaal hangt. Je kan het touw verschuiven over de ophangplaat om ze in één richten horizontaal te krijgen. De andere richting moet je vlak krijgen door de lengte van de laagste kant wat in te korten. Exact horizontaal moet het weer niet zijn, dus geen waterpas nodig.
 - Nu kunnen we de slingers bevestigen. Plaats de slingers aan de zijkant van de bodemplaat zodat deze ongeveer in het midden van de tekenplaat staan. Leg de scharnierblokjes met hun gesloten kant op de bodemplaat en schroef ze vast. Wij deden dit met een kleine sergeant (C-klem). Je kan deze sergeanten ook vervangen door schroeven. Schroeven maken het wel moeilijker om het geheel op te bergen. Bij het monteren van de blokje zorg je ervoor dat het midden blokje van de scharnier netjes uitgelijnd wordt met de rand van de bodemplaat. Dit doe je voor beide scharnieren. De scharniertouwtjes van de slingers zouden langs onder moeten zitten. Indien niet, maak de scharnieren terug los door de tandenstokers te verwijderen en het touwtje opnieuw door de scharnier te leiden en vast te zetten met de tandenstoker.
 - Verhoog de bodemplaat indien nodig totdat de slingers vrij kunnen bewegen. Makkelijk te     testen door ze een zetje te geven.
-![tekenlat](/assets/tekenlatscharnier.png)
+![tekenlat](/assets/drawings/tekenlatscharnier.png)
 - Neem het tekenlatje met de wasknijper en leg die op de tekenplank zodat een stift in de wasknijper in het midden van de tekenplank zou uitkomen. Het andere uiteinde van het tekenlatje leg je op de stilstaande slinger. Waar de tekenlat op de slinger rust duid je aan om een scharniergaatje te boren in het midden van de tekenlat.
 - Boor een 2.5mm gaatje door het tekenlatje op de afgemeten plaats.
-![tekenarmtegengewicht](/assets/tegengewicht.png)
+![tekenarmtegengewicht](/assets/drawings/tegengewicht.png)
 - Een 10-tal cm verder voorbij het scharnierpunt, weg van de wasknijper, mag je nu ook nog een petfles dopje aan de tekenlat vastmaken. Petflesje en scharniergaatje moeten parallel zijn.
 - Maak 2 touwtjes van ongeveer 10 cm lang klaar met afgewerkte uiteinden. Aan 1 uiteinde mag een knoop komen.
-![tekenarmscharnier](/assets/slingertop2.png)
+![tekenarmscharnier](/assets/drawings/slingertop2.png)
 - Steek het touwtje door de tekenlat en dan door het gaatje bovenaan de slinger. Span het touwtje aan en borg met een tandenstoker door de (halve) tandenstoker van aan de zijkant van de slinger in het gaatje te duwen.
 - Maak nog een touwtje klaar met dezelfde lengte als voor de ophangtouwen (2x lengte bezemsteel). Ook hier de uiteinden afwerken en aan 1 uiteinde een knoop. Dit wordt het stiftliftertouwtje
-![penhouder](/assets/tekenlat_center.png)
+![penhouder](/assetsdrawings/tekenlat_center.png)
 - Steek dit touw door het gaatje aan de wasknijper, van onder naar boven en dan door de 2e tekenlat.
 - Zorg ervoor dat beide tekenlatjes ongeveer een hoek van 90° vormen en meet dan de positie van het scharniergaatje aan de slinger af op de 2e tekenlak.
 - Boor het scharnier gaatje (2.5 mm).
@@ -207,9 +207,9 @@ o Laat de stift terug zakken als die binnen het blad blijft
 o Wacht en bewonder.
 o Indien je steeds een chaotische tekening krijgt heb je geen harmonische beweging tussen de twee slingers. Verander dan de hoogte van 1 slinger totdat de tekeningen vergelijkbaar zijn met de voorbeelden.
 
-![example1](/assets/IMG_2472.jpg)
-![example2](/assets/IMG_2907.JPG)
-![example3](/assets/IMG_2908.JPG)
+![example1](/assets/pictures/IMG_2472.jpg)
+![example2](/assets/pictures/IMG_2907.JPG)
+![example3](/assets/pictures/IMG_2908.JPG)
 
 
 ## Bronnen :
